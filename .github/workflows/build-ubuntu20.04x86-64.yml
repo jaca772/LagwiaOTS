@@ -53,7 +53,7 @@ jobs:
           cxx: g++
           build-type: Release
           # Extra options pass to cmake while configuring project
-          configure-options: -DUSE_LUAJIT=on
+          configure-options: -DUSE_LUAJIT=off
           # run build using '-j [parallel]' to use multiple threads to build
           parallel: 2
 
