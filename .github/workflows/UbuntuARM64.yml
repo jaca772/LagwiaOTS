@@ -37,7 +37,9 @@ jobs:
             build-essential \
             cmake \
             git \
-            libboost-all-dev \
+            libboost-dev \
+            libboost-system-dev \
+            libboost-filesystem-dev \
             libssl-dev \
             libmysqlclient-dev \
             lua5.1-dev \
