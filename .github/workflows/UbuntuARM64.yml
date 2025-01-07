@@ -1,4 +1,4 @@
-name: Build on Ubuntu 20.04
+name: Build on Ubuntu Arm64
 
 on:
   workflow_dispatch:
