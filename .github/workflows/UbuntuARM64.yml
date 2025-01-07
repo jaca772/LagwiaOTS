@@ -32,7 +32,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt-get update && sudo apt-get install -y \
+          sudo apt-get update && sudo apt-get install --fix-broken -y \
             tzdata \
             build-essential \
             cmake \
@@ -48,7 +48,7 @@ jobs:
             libcrypto++-dev \
             liblua5.3-0 \
             libfmt-dev \
-            libgmpxx4ldbl=2:6.2.1+dfsg-3ubuntu1 \
+            libgmp-dev \
             && sudo apt-get clean
 
       - name: Build with cmake
