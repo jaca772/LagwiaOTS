@@ -347,14 +347,14 @@
 	 <monster name="Lord'Paulistinha" file="Players IA/Lord'Paulistinha.xml"/>
 	 
 	<!-- Pharaohs -->
-	<monster name="Ashmunrah" file="pharaohs/ashmunrah.xml"/>
-	<monster name="Dipthrah" file="pharaohs/dipthrah.xml"/>
-	<monster name="Mahrdis" file="pharaohs/mahrdis.xml"/>
-	<monster name="Morguthis" file="pharaohs/morguthis.xml"/>
-	<monster name="Omruc" file="pharaohs/omruc.xml"/>
-	<monster name="Rahemos" file="pharaohs/rahemos.xml"/>
-	<monster name="Thalas" file="pharaohs/thalas.xml"/>
-	<monster name="Vashresamun" file="pharaohs/vashresamun.xml"/>
+	<monster name="Ashmunrah" file="Pharaohs/ashmunrah.xml"/>
+	<monster name="Dipthrah" file="Pharaohs/dipthrah.xml"/>
+	<monster name="Mahrdis" file="Pharaohs/mahrdis.xml"/>
+	<monster name="Morguthis" file="Pharaohs/morguthis.xml"/>
+	<monster name="Omruc" file="Pharaohs/omruc.xml"/>
+	<monster name="Rahemos" file="Pharaohs/rahemos.xml"/>
+	<monster name="Thalas" file="Pharaohs/thalas.xml"/>
+	<monster name="Vashresamun" file="Pharaohs/vashresamun.xml"/>
 
 	<!-- Pirates -->
 	<monster name="Pirate Buccaneer" file="pirates/pirate buccaneer.xml"/>
