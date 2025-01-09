@@ -392,14 +392,14 @@
     <!-- shapeshifters -->
 	 <monster name="Mimic" file="shapeshifters/mimic.xml"/>
 
-	<!-- skeletons -->
-	<monster name="Betrayed Wraith" file="skeletons/betrayed wraith.xml"/>
-	<monster name="Bonebeast" file="skeletons/bonebeast.xml"/>
-	<monster name="Bone Beast" file="skeletons/bonebeast.xml"/>
-	<monster name="Demon Skeleton" file="skeletons/demon skeleton.xml"/>
-	<monster name="Skeleton" file="skeletons/skeleton.xml"/>
-	<monster name="Lost Soul" file="skeletons/lost soul.xml"/>
-	<monster name="spectral scum" file="skeletons/spectral scum.xml"/>
+	<!-- Skeletons -->
+	<monster name="Betrayed Wraith" file="Skeletons/betrayed wraith.xml"/>
+	<monster name="Bonebeast" file="Skeletons/bonebeast.xml"/>
+	<monster name="Bone Beast" file="Skeletons/bonebeast.xml"/>
+	<monster name="Demon Skeleton" file="Skeletons/demon skeleton.xml"/>
+	<monster name="Skeleton" file="Skeletons/skeleton.xml"/>
+	<monster name="Lost Soul" file="Skeletons/lost soul.xml"/>
+	<monster name="spectral scum" file="Skeletons/spectral scum.xml"/>
 
 	<!-- The Triangle of Terror -->
 	<monster name="Ghazbaran" file="the triangle of terror/ghazbaran.xml"/>
