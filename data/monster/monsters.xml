@@ -167,11 +167,11 @@
 	<monster name="Nightmare" file="Demons/nightmare.xml"/>
 	<monster name="Plaguesmith" file="Demons/plaguesmith.xml"/>
 
-	<!-- Djinn -->
-	<monster name="Blue Djinn" file="Djinn/blue djinn.xml"/>
-	<monster name="Efreet" file="Djinn/efreet.xml"/>
-	<monster name="Green Djinn" file="Djinn/green djinn.xml"/>
-	<monster name="Marid" file="Djinn/marid.xml"/>
+	<!-- djinn -->
+	<monster name="Blue Djinn" file="djinn/blue djinn.xml"/>
+	<monster name="Efreet" file="djinn/efreet.xml"/>
+	<monster name="Green Djinn" file="djinn/green djinn.xml"/>
+	<monster name="Marid" file="djinn/marid.xml"/>
 
 	<!-- Dragons -->
 	<monster name="Dragon Lord" file="Dragons/dragon lord.xml"/>
@@ -357,12 +357,12 @@
 	<monster name="Vashresamun" file="Pharaohs/vashresamun.xml"/>
 
 	<!-- Pirates -->
-	<monster name="Pirate Buccaneer" file="pirates/pirate buccaneer.xml"/>
-	<monster name="Pirate Corsair" file="pirates/pirate corsair.xml"/>
-	<monster name="Pirate Cutthroat" file="pirates/pirate cutthroat.xml"/>
-	<monster name="Pirate Ghost" file="pirates/pirate ghost.xml"/>
-	<monster name="Pirate Marauder" file="pirates/pirate marauder.xml"/>
-	<monster name="Pirate Skeleton" file="pirates/pirate skeleton.xml"/>
+	<monster name="Pirate Buccaneer" file="Pirates/pirate buccaneer.xml"/>
+	<monster name="Pirate Corsair" file="Pirates/pirate corsair.xml"/>
+	<monster name="Pirate Cutthroat" file="Pirates/pirate cutthroat.xml"/>
+	<monster name="Pirate Ghost" file="Pirates/pirate ghost.xml"/>
+	<monster name="Pirate Marauder" file="Pirates/pirate marauder.xml"/>
+	<monster name="Pirate Skeleton" file="Pirates/pirate skeleton.xml"/>
 
 	<!-- Pyro-Elementals -->
 	<monster name="Fire Elemental" file="Pyro-Elementals/fire elemental.xml"/>
@@ -432,7 +432,7 @@
 
 	<!-- Trolls -->
 	<monster name="Frost Troll" file="Trolls/frost troll.xml"/>
-	<monster name="Island Troll" file="Trolls/island troll.xml"/>
+	<monster name="Island Troll" file="Trolls/island Troll.xml"/>
 	<monster name="Swamp Troll" file="Trolls/swamp troll.xml"/>
 	<monster name="Troll" file="Trolls/troll.xml"/>
 	<monster name="troll champion" file="Trolls/troll champion.xml"/>
