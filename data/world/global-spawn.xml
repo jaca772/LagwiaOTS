@@ -623,7 +623,7 @@
 		<monster name="demon skeleton" x="0" y="2" z="2" spawntime="60" />
 	</spawn>
 	<spawn centerx="33104" centery="32520" centerz="2" radius="1">
-		<npc name="Nah'Bob" x="-1" y="0" z="2" spawntime="60" />
+		<npc name="NahBob" x="-1" y="0" z="2" spawntime="60" />
 	</spawn>
 	<spawn centerx="33096" centery="32528" centerz="2" radius="4">
 		<monster name="blue djinn" x="3" y="-3" z="2" spawntime="60" />
