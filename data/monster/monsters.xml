@@ -103,7 +103,7 @@
 	<monster name="The Horned Fox" file="Bosses/the horned fox.xml" />
 	<monster name="Necropharus" file="Bosses/necropharus.xml" />
 	<monster name="The Old Widow" file="Bosses/the old widow.xml" />
-	<monster name="tiquandas Revenge" file="Bosses/tiquandas Revenge.xml" />
+	<monster name="tiquandas Revenge" file="Bosses/tiquandas revenge.xml" />
 	<monster name="apprentice sheng" file="Bosses/apprentice sheng.xml" />
 	<monster name="bones" file="Bosses/bones.xml" />
 	<monster name="countess sorrow" file="Bosses/countess sorrow.xml" />
@@ -245,7 +245,7 @@
 	<monster name="Behemoth" file="Giants/behemoth.xml"/>
 	<monster name="Cyclops" file="Giants/cyclops.xml"/>
 	<monster name="The Bloodtusk" file="Giants/the bloodtusk.xml"/>
-	<monster name="Leviathan" file="Giants/leviathan.xml"/>
+	<monster name="Leviathan" file="Giants/Leviathan.xml"/>
 	<monster name="Frost Giant" file="Giants/frost giant.xml"/>
 	<monster name="Frost Giantess" file="Giants/frost giantess.xml"/>
 	
@@ -432,7 +432,7 @@
 
 	<!-- Trolls -->
 	<monster name="Frost Troll" file="Trolls/frost troll.xml"/>
-	<monster name="Island Troll" file="Trolls/island Troll.xml"/>
+	<monster name="Island Troll" file="Trolls/Island Troll.xml"/>
 	<monster name="Swamp Troll" file="Trolls/swamp troll.xml"/>
 	<monster name="Troll" file="Trolls/troll.xml"/>
 	<monster name="troll champion" file="Trolls/troll champion.xml"/>
