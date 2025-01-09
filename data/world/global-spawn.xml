@@ -5914,7 +5914,7 @@
 		<npc name="Gail" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32635" centery="32738" centerz="6" radius="1">
-		<npc name="Ferks" x="-1" y="1" z="6" spawntime="60" />
+		<npc name="ferks" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32620" centery="32747" centerz="6" radius="1">
 		<npc name="Ray" x="0" y="-1" z="6" spawntime="60" />
@@ -7011,7 +7011,7 @@
 		<monster name="Barbarian Skullhunter" x="2" y="1" z="7" spawntime="240" />
 	</spawn>
 	<spawn centerx="32300" centery="31138" centerz="7" radius="2">
-		<npc name="Jessica" x="-1" y="-2" z="7" spawntime="240" />
+		<npc name="jessica" x="-1" y="-2" z="7" spawntime="240" />
 	</spawn>
 	<spawn centerx="32059" centery="31140" centerz="7" radius="3">
 		<monster name="Ice Golem" x="3" y="0" z="7" spawntime="240" />
@@ -13349,7 +13349,7 @@
 		<npc name="Quero" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32407" centery="32220" centerz="7" radius="1">
-		<npc name="hanna" x="1" y="0" z="7" spawntime="60" />
+		<npc name="Hanna" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32877" centery="32220" centerz="7" radius="1">
 		<monster name="deer" x="-1" y="0" z="7" spawntime="60" />
