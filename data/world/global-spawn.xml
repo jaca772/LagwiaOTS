@@ -15257,7 +15257,7 @@
 		<monster name="skeleton" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32186" centery="32472" centerz="7" radius="4">
-		<npc name="Simon the Beggar" x="-1" y="-2" z="7" spawntime="60" />
+		<npc name="Simon The Beggar" x="-1" y="-2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="33047" centery="32476" centerz="7" radius="1">
 		<monster name="skeleton" x="1" y="-1" z="7" spawntime="60" />
