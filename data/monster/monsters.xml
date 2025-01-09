@@ -438,7 +438,7 @@
 	<monster name="troll champion" file="Trolls/troll champion.xml"/>
 
 	<!-- Vampires -->
-	<monster name="Vampire" file="Vampires/vampire.xml"/>
+	<monster name="Vampire" file="vampires/vampire.xml"/>
 
 	<!-- Undead Humanoids -->
 	<monster name="Banshee" file="Undead Humanoids/banshee.xml"/>
